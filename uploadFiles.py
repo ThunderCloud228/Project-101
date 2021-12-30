@@ -16,7 +16,7 @@ class TransferData:
 
 
 def main():
-    access_token = 'sl.A--YDHkLsBeqs8h5gYPG--QmngaTysG50_L2WsbANGTnTI--ar_CRJOKglBHKnVBitP7rz0c6J1m14kMCXHSRXcEUJMgQNpSUxNf02pKK1dmrx-iDKOMHGQSX6IeipZE_RY3Ii4'
+    access_token = 'sl.A_IQfZRau7ErK6zN2ZId1AaacoCegvFdfkkbUfR9f69EUh0Vppl1v_W-kRRKZK1EM7voTIoi42subXajbZq_jsOWgC5XjAuStYm-iPMP4RIhFR5_QTMU1MfO9EtsPrCbL0cjppE'
     transferData = TransferData(access_token)
 
     file_from = input("Enter the file path to transfer: ")
